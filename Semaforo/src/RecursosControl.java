@@ -1,12 +1,12 @@
 import java.util.concurrent.Semaphore;
 
-public class ResourceControl {
+public class RecursosControl {
     private Semaphore semaphore;
-    private int resourceCount;
+    private int recursosCuent;
 
-    public ResourceControl(int resourceCount) {
-        this.semaphore = new Semaphore(resourceCount);
-        this.resourceCount = resourceCount;
+    public RecursosControl(int recursosCuent) {
+        this.semaphore = new Semaphore(recursosCuent);
+        this.recursosCuent = recursosCuent;
     }
 
     public void reserve(int r) throws InterruptedException {
