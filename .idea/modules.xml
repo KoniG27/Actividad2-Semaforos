@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Actividad2-Semaforos.iml" filepath="$PROJECT_DIR$/.idea/Actividad2-Semaforos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Monitor/Monitor.iml" filepath="$PROJECT_DIR$/Monitor/Monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaforo/Semaforo.iml" filepath="$PROJECT_DIR$/Semaforo/Semaforo.iml" />
+    </modules>
+  </component>
+</project>
