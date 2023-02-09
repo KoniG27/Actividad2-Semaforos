@@ -1,5 +1,5 @@
 public class Main {
-    static int recurs = 3;
+    static int recurs = 20;
     public static void main(String[] args) {
 
         RecursosControl recursosControl = new RecursosControl(recurs);
